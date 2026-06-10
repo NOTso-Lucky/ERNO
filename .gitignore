@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+venv/
+
+DATASET/
+TEST/
+
+*.pth
+*.pt
+*.h5
+*.keras
+
+.vscode/
